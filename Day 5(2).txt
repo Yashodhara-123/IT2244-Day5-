@@ -1,0 +1,13 @@
+[Yash@LAPTOP-B1CL6810 ~]$ vi weekdays.sh
+[Yash@LAPTOP-B1CL6810 ~]$ chmod weekdays.sh
+[Yash@LAPTOP-B1CL6810 ~]$ chmod 777 weekdays.sh
+[Yash@LAPTOP-B1CL6810 ~]$ ./weekdays.sh
+Enter the number:
+5
+Friday
+[Yash@LAPTOP-B1CL6810 ~]$ ./weekdays.sh
+Enter the number:
+11
+Invalid Number
+[Yash@LAPTOP-B1CL6810 ~]$ vi weekdays.sh
+[Yash@LAPTOP-B1CL6810 ~]$
